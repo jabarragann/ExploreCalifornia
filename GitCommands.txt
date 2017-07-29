@@ -6,4 +6,25 @@ git checkout -- name_of_the_File.html
 
 git reset HEAD resources.html
 
-	amending commits
+	amending last commits of changing amend message
+
+git commit --amend -m "Rearange items for a trip"
+
+	getting a previous version of a file 
+
+ git checkout c02db74977a3e078bf258d0a3969551b380aa87f -- resources.html
+
+	get Difference of staged files
+
+git diff --staged
+
+	revert Command
+
+	soft reset -- moving the head pointer to previous commits
+
+git reset --soft Hash_code_of_the_commit 
+
+	hard reset
+
+
+
