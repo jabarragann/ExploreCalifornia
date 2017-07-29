@@ -1,0 +1,13 @@
+# This is my firts git ignore file - everyfile with the following name will be ignored
+
+tempFile.txt
+
+*.zip
+
+log/*.log
+
+log/*.log.[0-9]
+
+assets/photoshop/
+assets/videos/
+!assets/videos/tour_*.mp4
