@@ -1,3 +1,9 @@
-To retrieve something from the working directory that has been changed 
+	To retrieve something from the working directory that has been changed 
 
 git checkout -- name_of_the_File.html
+
+	Unstage a file
+
+git reset HEAD resources.html
+
+	amending commits
