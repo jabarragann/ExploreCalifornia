@@ -1,0 +1,3 @@
+To retrieve something from the working directory that has been changed 
+
+git checkout -- name_of_the_File.html
