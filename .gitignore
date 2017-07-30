@@ -1,5 +1,7 @@
 # This is my firts git ignore file - everyfile with the following name will be ignored
 
+tempfile2.txt
+
 tempFile.txt
 
 *.zip
